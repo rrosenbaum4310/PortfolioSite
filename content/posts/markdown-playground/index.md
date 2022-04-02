@@ -96,7 +96,7 @@ This is a paragraph.
 @import 'compass/reset';
 
 // variables
-$colorGreen: #008000;
+$colorGreen: #8bcff3;
 $colorGreenDark: darken($colorGreen, 10);
 
 @mixin container {
@@ -106,7 +106,7 @@ $colorGreenDark: darken($colorGreen, 10);
 // mixins with parameters
 @mixin button($color: green) {
   @if ($color == green) {
-    background-color: #008000;
+    background-color: #8bcff3;
   } @else if ($color == red) {
     background-color: #b22222;
   }
