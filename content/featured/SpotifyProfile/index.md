@@ -1,15 +1,14 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'EDGE Fitness Tracker'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://phlexswim.com/products/edge'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Industrial Design Principles
+  - Graphic Design
+  - AWS
+  - Swift
+  - Firebase
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Lead the design and development of a connected fitness tracking device that used biometric and motion data from the users temporal artery positioned goggles. We then use sophisticated machine learning models to analze that motion data with a 98.7% accuracy to truth data to provide training data. [Wall Street Journal](https://www.wsj.com/articles/4-ways-to-become-a-better-swimmerfrom-smart-goggles-to-waterproof-headphones-11622141542)
