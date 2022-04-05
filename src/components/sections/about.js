@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['SwiftUI', 'MATLAB', 'Gatsby', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Swift', 'MATLAB', 'Gatsby', 'Blender', 'Python', 'HealthKit API'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -145,20 +145,15 @@ const About = () => {
               attending the University of Florida and immersed myself in running the student-athlete
               blog thegatorgrind.com — turns out my interest in the field blossomed from there!
               <br></br>
-              Fast-forward to today, and I’ve had the privilege of getting a degree from here,
-              masters certificate in this, and went on to found this company at the age of 20.
               <br></br>
-              Over the years as a founder of Phlex, I was priviledged to run the entire development,
-              marketing and advertising campaigns for two product launches (Fitness Tracker,
-              Headphone) and a successful crowdfunding campaign.
+              Fast-forward to today, and I’ve had the privilege of getting a degree from{' '}
+              <a href="https://ufl.edu/">here</a>, masters certificate in{' '}
+              <a href="https://ufl.edu/">this</a>, and went on to found{' '}
+              <a href="https://www.phlexswim.com">this company</a> at the age of 20.
+              <br></br>
               <br></br>
               My main focus these days is building accessible, inclusive consumer software products
-              and digital experiences at Phlex. I also recently started development on a side
-              project I will be documenting here.
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              and digital experiences at <a href="https://www.phlexswim.com/">Phlex</a>.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

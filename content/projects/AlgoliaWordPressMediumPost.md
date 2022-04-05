@@ -1,14 +1,14 @@
 ---
 date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
+title: 'How to maximize the value of particpaing in a tech accelerator'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+external: 'https://medium.com/@ryrosenbaum/how-to-maximize-the-value-of-participating-in-a-tech-accelerator-43ac8dbbe528'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - Gatsby
+  - Netlify
+  - Medium
+company: 'Self Published'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+A few thoughts on how to maximize your experience in a tech accelerator
