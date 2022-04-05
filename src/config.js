@@ -4,23 +4,19 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://github.com/rrosenbaum4310',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/ryan-rosenbaum-5938b6a7/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'Instagram',
+      url: 'https://www.instagram.com/ryrosenbaum',
+    },
+    {
+      name: 'Twitter',
+      url: 'https://twitter.com/rrosenphlex',
     },
   ],
 
