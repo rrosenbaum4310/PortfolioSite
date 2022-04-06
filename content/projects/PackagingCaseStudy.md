@@ -1,13 +1,13 @@
 ---
 date: '2018-11-01'
-title: 'Product Packaging Design | ARTICLE'
+title: 'A Case Study on Packaging Design | Article'
 github: ''
 external: 'https://medium.com/@ryrosenbaum/presenting-a-product-a-packaging-design-case-study-d604bd231215'
 tech:
   - Medium
   - Photoshop
   - Design Critical Thinking
-company: 'Phlex'
+company: 'Medium Article'
 showInProjects: true
 ---
 

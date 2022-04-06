@@ -1,14 +1,12 @@
 ---
 date: '1'
-title: 'Phlex Swim Shopify Site'
+title: 'Connected Fitness Platform for Swimmers'
 cover: './halcyon.png'
 github: 'https://github.com/bchiang7/halcyon-site'
 external: 'https://phlexswim.com/'
 tech:
-  - Shopify Liquid
-  - HTML, CSS, JS
-  - Adobe Photoshop for assets
-  - IconScout
+  - Software Development
+  - Machine Learning
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Lead the design and development of a connected fitness tracking device that used biometric and motion data from the users temporal artery positioned goggles. We then use sophisticated machine learning models to analze that motion data with a 98.7% accuracy to truth data to provide training data. [Wall Street Journal](https://www.wsj.com/articles/4-ways-to-become-a-better-swimmerfrom-smart-goggles-to-waterproof-headphones-11622141542)
