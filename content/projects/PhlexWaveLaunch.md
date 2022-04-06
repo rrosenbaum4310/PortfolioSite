@@ -1,8 +1,8 @@
 ---
 date: '2022-01-25'
-title: 'WAVE Bone Conduction Headphones Launched '
+title: 'WAVE Bone Conduction Headphones Launch 🎧'
 github: ''
-external: 'http://www.phlexswim.com/products/wave-headphones 🎧'
+external: 'http://www.phlexswim.com/products/wave-headphones'
 tech:
   - Advertising
   - Content Creation
