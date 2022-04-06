@@ -148,11 +148,11 @@ const ArchivePage = ({ location, data }) => {
 
   return (
     <Layout location={location}>
-      <Helmet title="Archive" />
+      <Helmet title="Projects" />
 
       <main>
         <header ref={revealTitle}>
-          <h1 className="big-heading">Archive</h1>
+          <h1 className="big-heading">Projects</h1>
           <p className="subtitle">A big list of things I’ve worked on</p>
         </header>
 
