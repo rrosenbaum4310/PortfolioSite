@@ -7,7 +7,7 @@ tech:
   - Academics
   - Web Development
 company: 'University of Florida'
-showInProjects: true
+showInProjects: false
 ---
 
 Blurb for the medium post. Read more about it on [Masters Cert](https://onlinemasters.jou.ufl.edu/web-design/).

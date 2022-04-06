@@ -6,7 +6,7 @@ external: 'https://flswimschool.com/'
 tech:
   - Web Design & Development
 company: 'Freelance Web Developer'
-showInProjects: true
+showInProjects: false
 ---
 
 FSS [FSS](https://flswimschool.com/).

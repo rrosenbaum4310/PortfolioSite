@@ -8,7 +8,7 @@ tech:
   - Content Creation
   - Software Development
 company: 'Phlex Swim YouTube'
-showInProjects: true
+showInProjects: false
 ---
 
 [Phlex Swim YT](https://www.youtube.com/c/CaliCondorsISL/about)

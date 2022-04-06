@@ -7,7 +7,7 @@ tech:
   - Advertising
   - Product Marketing
 company: 'Iron Man'
-showInProjects: true
+showInProjects: false
 ---
 
 Blurb for the medium post. Read more about it on [Race Results](https://www.coachcox.co.uk/imstats/race/621/results/).

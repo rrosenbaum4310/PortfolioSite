@@ -7,7 +7,7 @@ tech:
   - Video Editing
   - Swimming Knowledge
 company: 'U.S. Masters Swimming'
-showInProjects: true
+showInProjects: false
 ---
 
 [US Masters Swimming YouTube](https://www.youtube.com/c/USMastersSwimming/videos)

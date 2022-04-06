@@ -7,7 +7,7 @@ tech:
   - Web Design & Development
   - Software Development
 company: 'Freelance Web Developer'
-showInProjects: true
+showInProjects: false
 ---
 
 MKINC [MKINC](https://mykidisnotcrazy.com/).

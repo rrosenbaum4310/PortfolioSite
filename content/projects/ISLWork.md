@@ -7,7 +7,7 @@ tech:
   - Content Creation
   - Swimming Knowledge
 company: 'Cali Condors | International Swim League'
-showInProjects: true
+showInProjects: false
 ---
 
 A succesful crowdfunding campaign I led from zero to fully funded. Read more about it on [Indiegogo](https://www.indiegogo.com/projects/edge-swim-tracker-made-by-swimmers-for-swimmers#/). [Medium post](https://ryanrosenbaum.dev/crowdfunding-phlex)

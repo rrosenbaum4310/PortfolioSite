@@ -7,7 +7,7 @@ tech:
   - Advertising
   - Product Marketing
 company: 'The Gator Grind'
-showInProjects: true
+showInProjects: false
 ---
 
 Blurb for the medium post. Read more about it on [The Verge](https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming).

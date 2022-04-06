@@ -7,7 +7,7 @@ tech:
   - Athletics
   - Software Development
 company: 'University of Florida'
-showInProjects: true
+showInProjects: false
 ---
 
 Blurb for the medium post. Read more about it on [EDGE](http://www.phlexswim.com/products/edge).

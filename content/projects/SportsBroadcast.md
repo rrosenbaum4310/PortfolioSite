@@ -8,7 +8,7 @@ tech:
   - Football
   - Gymnastics
 company: 'ESPN'
-showInProjects: true
+showInProjects: false
 ---
 
 Blurb for the medium post. Read more about it on [UF Degree](https://catalog.ufl.edu/UGRD/colleges-schools/UGJRC/TEL_BSTE/).

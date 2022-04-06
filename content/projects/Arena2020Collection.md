@@ -8,7 +8,7 @@ tech:
   - Content Creation
   - Software Development
 company: 'Arena Swimwear'
-showInProjects: true
+showInProjects: false
 ---
 
 [Collection Video](https://www.youtube.com/watch?v=QFv2V_V2w5c)

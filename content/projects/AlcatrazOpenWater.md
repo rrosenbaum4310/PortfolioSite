@@ -6,7 +6,7 @@ external: 'https://raceroster.com/events/2022/49869/2022-alcatraz-sharkfest-swim
 tech:
   - Swimming
 company: 'Athletics'
-showInProjects: true
+showInProjects: false
 ---
 
 [2022 Alcatraz](https://raceroster.com/events/2022/49869/2022-alcatraz-sharkfest-swim)

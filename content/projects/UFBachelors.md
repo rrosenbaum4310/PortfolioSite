@@ -7,7 +7,7 @@ tech:
   - Academics
   - Media and Technology
 company: 'University of Florida'
-showInProjects: true
+showInProjects: false
 ---
 
 Blurb for the medium post. Read more about it on [UF Degree](https://catalog.ufl.edu/UGRD/colleges-schools/UGJRC/TEL_BSTE/).

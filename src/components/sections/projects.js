@@ -267,7 +267,7 @@ const Projects = () => {
       <h2 ref={revealTitle}>Other Noteworthy Projects</h2>
 
       <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
-        View my project catalog
+        view my projects archive
       </Link>
 
       <ul className="projects-grid">
@@ -285,7 +285,7 @@ const Projects = () => {
                 <CSSTransition
                   key={i}
                   classNames="fadeup"
-                  timeout={i >= GRID_LIMIT ? (i - GRID_LIMIT) * 300 : 300}
+                  timeout={i >= GRID_LIMIT ? (i - GRID_LIMIT) * 150 : 150}
                   exit={false}>
                   <StyledProject
                     key={i}

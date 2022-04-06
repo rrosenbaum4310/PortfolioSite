@@ -8,7 +8,7 @@ tech:
   - Product Marketing
   - Software Development
 company: 'USA Swimming'
-showInProjects: true
+showInProjects: false
 ---
 
 Blurb for the medium post. Read more about it on [EDGE](http://www.phlexswim.com/products/edge).
