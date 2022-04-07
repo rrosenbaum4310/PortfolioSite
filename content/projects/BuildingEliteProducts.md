@@ -8,7 +8,7 @@ tech:
   - Product Marketing
   - Athletics
 company: 'Medium Article'
-showInProjects: true
+showInProjects: false
 ---
 
 Blurb for the medium post. Read more about it on [Medium Post](https://medium.com/@ryrosenbaum/building-products-for-olympians-and-elite-athletes-7cb155b340e1).

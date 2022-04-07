@@ -6,7 +6,7 @@ external: ''
 tech:
   - 3D Printing
   - 3D Design
-company: 'Volunterring'
+company: 'Volunteering'
 showInProjects: false
 ---
 

@@ -8,7 +8,7 @@ tech:
   - Medium
   - Software Development
 company: 'leAD Sports Tech Accelerator'
-showInProjects: true
+showInProjects: false
 ---
 
 Blurb for the medium post. Read more about it on [Medium Article](https://medium.com/@ryrosenbaum/43ac8dbbe528).

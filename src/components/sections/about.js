@@ -6,13 +6,15 @@ import sr from '@utils/sr';
 import { usePrefersReducedMotion } from '@hooks';
 
 const StyledAboutSection = styled.section`
-  max-width: 900px;
+  max-width: 1000px;
 
   .inner {
     display: grid;
     grid-template-columns: 3fr 2fr;
     grid-gap: 50px;
-
+    color: var(--light-slate);
+    font-family: var(--font-calibre);
+    font-weight: medium;
     @media (max-width: 768px) {
       display: block;
     }
@@ -82,8 +84,8 @@ const StyledPic = styled.div`
     .img {
       position: relative;
       border-radius: var(--border-radius);
-      mix-blend-mode: multiply;
-      filter: grayscale(100%) contrast(1);
+      // mix-blend-mode: multiply;
+      // filter: grayscale(100%) contrast(1);
       transition: var(--transition);
     }
 
@@ -136,14 +138,16 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Ryan and I enjoy developing (and occasionally designing) exceptional
-              digital experiences. Currently, I’m focused on building Phlex, creating the future of
+              Hello! My name is Ryan and I enjoy designing and developing exceptional digital
+              experiences. Currently, I’m focused on building{' '}
+              <a href="https://www.phlexswim.com">Phlex</a>, where we are creating the future of
               swimming with machine learning intelligence.
             </p>
             <p>
-              My interest in software engineering started back in 2012 when I first started
-              attending the University of Florida and immersed myself in running the student-athlete
-              blog thegatorgrind.com — turns out my interest in the field blossomed from there!
+              My interest for software engineering naturally blossomed out of a lifelong passion for
+              technology. As a the University of Florida and immersed myself in running the
+              student-athlete blog thegatorgrind.com — turns out my interest in the field blossomed
+              from there!
               <br></br>
               <br></br>
               Fast-forward to today, and I’ve had the privilege of getting a degree from{' '}

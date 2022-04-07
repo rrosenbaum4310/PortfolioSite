@@ -30,13 +30,14 @@ const StyledHeroSection = styled.section`
 
   h3 {
     margin-top: 10px;
-    color: var(--slate);
+    color: var(--green);
     line-height: 0.9;
   }
 
   p {
     margin: 20px 0 0;
     max-width: 540px;
+    color: var(--light-slate);
   }
 
   .email-link {
@@ -70,15 +71,12 @@ const Hero = () => {
           <b>Phlex</b>
         </a>
         , creating the future of swimming with machine learning intelligence.
-        <br></br>
-        <br></br>
-        Scroll down to learn more
       </p>
     </>
   );
   const five = (
-    <a className="email-link" href="https://www.phlexswim.com" target="_blank" rel="noreferrer">
-      Check out my job!
+    <a className="email-link" href="mailto:ryanrosenbaum@hey.com" target="_blank" rel="noreferrer">
+      Let's Chat!
     </a>
   );
 
