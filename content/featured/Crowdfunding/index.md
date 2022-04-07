@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Phlex EDGE Crowdfunding Campaign $50k+'
+title: ' $50k+ Crowdfunding Campaign'
 cover: './demo.png'
 external: 'https://www.indiegogo.com/projects/edge-swim-tracker-made-by-swimmers-for-swimmers#/'
 tech:

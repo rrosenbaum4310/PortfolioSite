@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Connected Fitness Platform for Swimmers'
+title: 'Fitness Tracking for Swimmers'
 cover: './halcyon.png'
 github: 'https://github.com/bchiang7/halcyon-site'
 external: 'https://phlexswim.com/'
