@@ -67,7 +67,7 @@ const Hero = () => {
         I’m a software engineer specializing in building and designing experiences with technology.
         Currently, I’m focused on{' '}
         <a href="https://phlexswim.com/" target="_blank" rel="noreferrer">
-          Phlex
+          <b>Phlex</b>
         </a>
         , creating the future of swimming with machine learning intelligence.
         <br></br>
