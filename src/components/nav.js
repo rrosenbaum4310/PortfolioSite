@@ -178,6 +178,16 @@ const Nav = ({ isHome }) => {
     </a>
   );
 
+  const MyBlogLink = (
+    <a
+      className="resume-button"
+      href="https://blog.ryanrosenbaum.dev"
+      target="_blank"
+      rel="noopener noreferrer">
+      Blog
+    </a>
+  );
+
   return (
     <StyledHeader scrollDirection={scrollDirection} scrolledToTop={scrolledToTop}>
       <StyledNav>
@@ -229,6 +239,7 @@ const Nav = ({ isHome }) => {
                   <CSSTransition classNames={fadeDownClass} timeout={timeout}>
                     <div style={{ transitionDelay: `${isHome ? navLinks.length * 100 : 0}ms` }}>
                       {ResumeLink}
+                      {MyBlogLink}
                     </div>
                   </CSSTransition>
                 )}

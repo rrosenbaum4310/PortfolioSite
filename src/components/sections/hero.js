@@ -44,6 +44,12 @@ const StyledHeroSection = styled.section`
     ${({ theme }) => theme.mixins.bigButton};
     margin-top: 50px;
   }
+
+  .blog-link {
+    ${({ theme }) => theme.mixins.bigButton};
+    margin-top: 50px;
+    margin-left: 25px;
+  }
 `;
 
 const Hero = () => {
@@ -75,9 +81,22 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a className="email-link" href="mailto:ryanrosenbaum@hey.com" target="_blank" rel="noreferrer">
-      Let's Chat!
-    </a>
+    <>
+      <a
+        className="email-link"
+        href="mailto:ryanrosenbaum@hey.com"
+        target="_blank"
+        rel="noreferrer">
+        Let's Chat!
+      </a>
+      <a
+        className="blog-link"
+        href="https:/blog.ryanrosenbaum.dev"
+        target="_blank"
+        rel="noreferrer">
+        My Blog
+      </a>
+    </>
   );
 
   const items = [one, two, three, four, five];
