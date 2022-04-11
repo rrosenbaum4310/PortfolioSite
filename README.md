@@ -11,7 +11,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d81def6a-0daf-4306-9d6c-8a8088640c17/deploy-status)](https://app.netlify.com/sites/joyful-strudel-822a18/deploys)
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](https://github.com/rrosenbaum4310/PortfolioSite/blob/main/mockuuups-imac-mockup-on-white-background.jpeg)
 
 ## Attribution
 
