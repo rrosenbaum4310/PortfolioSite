@@ -91,7 +91,7 @@ const Hero = () => {
       </a>
       <a
         className="blog-link"
-        href="https:/blog.ryanrosenbaum.dev"
+        href="https://blog.ryanrosenbaum.dev"
         target="_blank"
         rel="noreferrer">
         My Blog
