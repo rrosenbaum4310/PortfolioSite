@@ -1,14 +1,14 @@
 ---
 date: '2021-07-31'
-title: 'Building Products for Elite Athletes | Article'
+title: 'Building Products for Elite Athletes'
 github: ''
-external: 'https://medium.com/@ryrosenbaum/building-products-for-olympians-and-elite-athletes-7cb155b340e1'
+external: 'https://blog.ryanrosenbaum.dev/building-elite-athlete-technology'
 tech:
   - Product Design
-  - Product Marketing
-  - Athletics
-company: 'Medium Article'
+  - Athlete Marketing
+  - User Research
+company: 'My Blog'
 showInProjects: false
 ---
 
-Blurb for the medium post. Read more about it on [Medium Post](https://medium.com/@ryrosenbaum/building-products-for-olympians-and-elite-athletes-7cb155b340e1).
+The delicate balance of creating value for those that have dedicated their blood, sweat, and tears to their craft. [My Post](https://blog.ryanrosenbaum.dev/building-elite-athlete-technology)
