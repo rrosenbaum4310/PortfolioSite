@@ -7,10 +7,9 @@
 <p align="center">
   The fourth iteration of <a href="https://ryanrosenbaum.dev" target="_blank">ryanrosenbaum.dev</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
-<p align="center">
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d81def6a-0daf-4306-9d6c-8a8088640c17/deploy-status)](https://app.netlify.com/sites/joyful-strudel-822a18/deploys)
-</p>
 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d81def6a-0daf-4306-9d6c-8a8088640c17/deploy-status)](https://app.netlify.com/sites/joyful-strudel-822a18/deploys)
 
 ![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
 
